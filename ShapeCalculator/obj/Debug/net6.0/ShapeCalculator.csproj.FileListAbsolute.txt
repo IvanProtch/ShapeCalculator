@@ -1,0 +1,12 @@
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\net6.0\ShapeCalculator.deps.json
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\net6.0\ShapeCalculator.dll
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\bin\Debug\net6.0\ShapeCalculator.pdb
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ShapeCalculator.dll
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\refint\ShapeCalculator.dll
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ShapeCalculator.pdb
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ref\ShapeCalculator.dll
+C:\Users\ivanp\source\repos\ShapeCalculator\ShapeCalculator\obj\Debug\net6.0\ShapeCalculator.sourcelink.json
